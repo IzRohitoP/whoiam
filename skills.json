@@ -15,9 +15,6 @@
         "name": "HTML5",
         "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
     },
-    {
-        "name": "CSS3",
-    },
      {
         "name": "Python",
         "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
@@ -30,4 +27,5 @@
         "name": "DSA",
         "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
     }
+    
 ]
